@@ -47,7 +47,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-ahora ya el bot debe estar ejecutandoce y listo para funcionar, si lo apagas, y luego lo quieres volver a encender deberas poner estos en consola
+La proxima vez que quieras encenderlo no necesitaras repetir todo el proceso para volver a encenderlo. Solo abre una consola en la carpeta del proyecto y ejecuta:
 ```bash
 venv\Scripts\activate
 ```
